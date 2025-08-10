@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project focus on exploratory data analysis of Tata business sales to generate business insights for the CEO and CMO on the following questions:
+
     - Which region is generating the highest revenue, and which region is generating the lowest?.
     - What is the monthly trend of revenue, which months have faced the biggest increase/decrease?
     - Which months generated the most revenue? Is there a seasonality in sales?
