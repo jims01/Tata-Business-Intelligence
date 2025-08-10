@@ -9,7 +9,7 @@ This project focus on exploratory data analysis of Tata business sales to genera
 
 
 ## Dataset
-  Download the data [here](https://httpbin.org/get)
+  Download the data [here](https://github.com/jims01/Tata-Business-Intelligence/blob/main/Online%20Retail%20Data%20Set.xlsx)
 
 ## Tool used
    Tableau [Download](https://www.tableau.com/en-gb)
