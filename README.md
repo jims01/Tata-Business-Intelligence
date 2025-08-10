@@ -1,6 +1,6 @@
 # Tata-Business-Intelligence
 
-## Project Overview
+## Project Overview (Simulation)
 This project focus on exploratory data analysis of Tata business sales to generate business insights for the CEO and CMO on the following questions:
 
     - Which region is generating the highest revenue, and which region is generating the lowest?.
