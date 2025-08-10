@@ -6,7 +6,8 @@ This project focus on exploratory data analysis of Tata business sales to genera
     - Which region is generating the highest revenue, and which region is generating the lowest?.
     - What is the monthly trend of revenue, which months have faced the biggest increase/decrease?
     - Which months generated the most revenue? Is there a seasonality in sales?
-    - Who are the top customers and how much do they contribute to the total revenue? Is the business dependent on these customers or is the customer base diversified?
+    - Who are the top customers and how much do they contribute to the total revenue? 
+    - Is the business dependent on these customers or is the customer base diversified?
 
 
 ## Dataset
